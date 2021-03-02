@@ -19,8 +19,8 @@ async def ping(ctx):
 async def cpp(ctx):
     await ctx.send("1.hello world\n2.입출력\n")
 
-@cpp.command(
+@cpp.command()
 async def _helloworld(ctx):
     await ctx.send("```c++\n#include <iostream>\n\nint main()\n{\nstd::cout << "Hello World!";\n}```")
-    
-bot.run('tkcaon')
+
+bot.run('ODE2MTI1MjIwMjA0NzA3ODUw.YD2Z1w.KyYJVM36CWV1YEki5PU77g8xSmM')
