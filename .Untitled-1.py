@@ -41,4 +41,4 @@ async def 도움말(ctx):
 async def _명령어(ctx):
     await ctx.send(">>>도움말 명령어\n-cpp\n-py(미개방)\n-js(계획)\n-java(계획)\n-lua(미개방)")
 
-bot.run('ODE2MTI1MjIwMjA0NzA3ODUw.YD2Z1w.QhtFNDbA5VEMO_bfJ5rb-NULatw')
+bot.run('')
